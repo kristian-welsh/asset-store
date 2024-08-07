@@ -1,0 +1,11 @@
+{
+  "name": "sliders-component",
+  "version": "1.0.0",
+  "description": "a component that mimics audio station channel sliders, integrating different behaviours for them",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kris welsh",
+  "license": "ISC"
+}
